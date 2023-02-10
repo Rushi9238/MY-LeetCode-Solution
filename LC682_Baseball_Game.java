@@ -1,5 +1,5 @@
 import java.util.Stack;
-import java.util.*;
+// import java.util.*;
 // import java.util.Scanner;
 
 class LC682_Baseball_Game{
